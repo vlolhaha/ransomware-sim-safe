@@ -1,0 +1,70 @@
+Educational Use License — Ransomware Simulator Safe Demo
+=========================================================
+
+Copyright (c) 2026
+
+DEFINITIONS
+-----------
+"Software" means the source code, compiled binaries, and associated files
+in this repository.
+
+"Authorized Use" means use solely for security education, awareness
+training, academic research, or authorized penetration testing exercises.
+
+GRANT OF LICENSE
+----------------
+Permission is granted, free of charge, to any person obtaining a copy of
+this Software to use, copy, modify, and distribute it, subject to ALL of
+the following conditions:
+
+CONDITIONS
+----------
+1. AUTHORIZED USE ONLY
+   The Software may only be used for Authorized Use as defined above.
+   Any other use is strictly prohibited.
+
+2. CONSENT REQUIRED
+   The Software may only be executed on a machine that is owned by the
+   operator, or on a machine for which the operator holds explicit prior
+   written consent from the owner.
+
+3. DISCLOSURE TO PARTICIPANTS
+   Any person who will observe or be present during execution of the
+   Software must be informed that it is a simulation BEFORE it is run.
+   Surprising or deceiving individuals with this Software is prohibited.
+
+4. NO HARMFUL MODIFICATION
+   Modifications that introduce any of the following are prohibited:
+     - Real file encryption or destruction
+     - Real process termination targeting user or system processes
+     - Network communication, data exfiltration, or C2 connectivity
+     - Persistence mechanisms (registry run keys, scheduled tasks, etc.)
+     - Any action that causes lasting harm to a system or its data
+
+5. LICENSE RETENTION
+   This LICENSE file and the README must be included in all copies or
+   substantial portions of the Software, including modified versions.
+
+6. NO COMMERCIAL EXPLOITATION AS A THREAT
+   The Software may not be sold or distributed as part of any product
+   or service intended to threaten, extort, or harm individuals or
+   organizations.
+
+DISCLAIMER
+----------
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED. THE AUTHORS ACCEPT NO LIABILITY FOR DAMAGES ARISING FROM USE,
+MISUSE, OR DISTRIBUTION OF THIS SOFTWARE.
+
+The authors explicitly disclaim responsibility for any use of this
+Software that violates applicable law or these license terms. It is the
+sole responsibility of the operator to ensure compliance with all local,
+national, and international laws before running or distributing this
+Software.
+
+GOVERNING NOTE
+--------------
+This license does not override applicable law. In jurisdictions where
+distribution of software capable of simulating malicious behavior is
+restricted regardless of intent, the operator must seek independent legal
+advice before distributing.
